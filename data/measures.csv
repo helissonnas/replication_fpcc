@@ -1,0 +1,7 @@
+systems,p,r,f,es,es_er,category
+nerp_crf,0.56,0.5,0.53,1803,1012,person
+freeling,0.54,0.6,0.57,2279,1230,person
+nerp_crf,0.48,0.53,0.51,1382,667,place
+freeling,0.52,0.6,0.56,1431,751,place
+nerp_crf,0.44,0.48,0.46,1054,460,org
+freeling,0.28,0.6,0.38,2088,575,org
